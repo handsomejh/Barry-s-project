@@ -1,0 +1,31 @@
+1:
+  front_url: https://www.ut66.com/w/
+  first_num: 1
+  final_num: 46000
+  url_Xpath: /html/body/div[2]/div/div/div[1]/div[2]/div/div/ul/table/tbody/tr[1]/td[1]
+  class_Xpath: /html/body/div[2]/div/div/div[1]/div[2]/div/div/ul/table/tbody/tr[2]/td[2]/a
+2:
+  front_url: http://www.zgr18.com/w/
+  first_num: 34500
+  final_num: 70930
+  url_Xpath: /html/body/div[2]/div/div/div[1]/div[2]/div/table/tbody/tr[2]/td[1]/a/font
+  class_Xpath: /html/body/div[2]/div/div/div[1]/div[2]/div/table/tbody/tr[3]/td[2]/a
+3:
+  front_url: http://www.75dir.com/w/
+  first_num: 1
+  final_num: 14649
+  url_Xpath: /html/body/div[2]/div/div/div[1]/div[2]/div/table/tbody/tr[2]/td[1]/a/font
+  class_Xpath: /html/body/div[2]/div/div/div[1]/div[2]/div/table/tbody/tr[3]/td[2]/a
+4:
+  front_url: http://www.lply.org/website-
+  first_num: 1
+  final_num: 83826
+  url_Xpath: //*[@id="siteinfo"]/div/ul[1]/li[1]/a/font
+  class_Xpath: //*[@id="siteinfo"]/div[2]/ul[1]/li[4]/a
+5:
+  front_url: https://www.kuaishouba.com/siteinfo/
+  first_num: 1
+  final_num: 22580
+  url_Xpath: /html/body/div[2]/table/tbody/tr/td/div[2]/div[1]/div/ul/li[1]/a/font
+  class_Xpath: /html/body/div[2]/table/tbody/tr/td/div[1]/a[4]
+
